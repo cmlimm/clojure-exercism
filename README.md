@@ -1,0 +1,1 @@
+These are solutions for [Clojure track](https://exercism.org/tracks/clojure) on Excercism
